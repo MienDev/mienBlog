@@ -5,7 +5,7 @@ description: ""
 draft: false
 authorbox: true
 sidebar: true
-thumbnail: ""
+thumbnail: "img/post-cover/deer-in-grass.jpg"
 categories:
   - "philosophy"
 tags:

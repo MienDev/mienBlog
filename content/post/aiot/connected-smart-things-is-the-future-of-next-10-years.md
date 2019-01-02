@@ -5,9 +5,9 @@ description: "Connected Smart Things Is the Future of Next 10 Years"
 draft: false
 authorbox: true
 sidebar: true
-thumbnail: ""
+thumbnail: "img/post-cover/connected-smart-things-cover.jpg"
 categories:
-  - "aiot"
+  - "IoT"
 tags:
   - "IoT"
   - "AI"
