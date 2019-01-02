@@ -2,12 +2,12 @@
 title: "万物智联，未来十年科技界的希望"
 date: 2018-12-24T19:38:20+08:00
 description: "Connected Smart Things Is the Future of Next 10 Years"
-draft: true
+draft: false
 authorbox: true
 sidebar: true
 thumbnail: ""
 categories:
-  - "AI-IOT"
+  - "aiot"
 tags:
   - "IoT"
   - "AI"
