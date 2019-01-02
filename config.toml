@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Mainroad"
+title = "吾言以对 / My Thoughts, My Words"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad_theme"
