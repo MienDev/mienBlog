@@ -54,7 +54,7 @@ buildDrafts = false
     identifier = "ml" #Machine Learning
     name = "机器学习/ML"
     pre = "<i class='fa fa-heart'></i>"
-    url = "/about/"
+    url = "/tags/ai/"
     weight = -180
   [[menu.main]]
     identifier = "iot"
