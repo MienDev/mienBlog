@@ -5,18 +5,23 @@ paginate = "10" # Number of posts per page
 theme = "mainroad_theme"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+buildDrafts = false
+
 
 [Author]
-  name = "John Doe"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
-  avatar = "img/avatar.png"
+  name = "Mien Wu"
+  bio = "Mien Wu's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  avatar = "img/mien_avatar.jpg"
+
+[permalinks]
+   post = "/:year/:month/:filename/"
 
 [Params]
   subtitle = "人生思考 / 产品思维 / 系统架构 / 物联网 / 人工智能" # Subtitle of your site
-  description = "John Doe's Personal blog about everything" # Description of your site
+  description = "Mien Wu's Personal blog about thoughts and words" # Description of your site
   opengraph = true
   twitter_cards = false
-  readmore = false # Show "Read more" button in list if true
+  readmore = true # Show "Read more" button in list if true
   authorbox = true
   post_navigation = true
   postSections = ["post"]
@@ -26,8 +31,41 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   list = "right"   # Configure layout for list pages
   single = "right" # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["categories", "taglist", "recent"] # "search" removed
+  widgets = ["recent", "categories", "taglist"] # "search" removed
 
 [Params.widgets]
-  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  recent_num = 6 # Set the number of articles in the "Recent articles" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[menu]
+  [[menu.main]]
+    identifier = "programme" #Machine Learning
+    name = "编程开发/Programme"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/categories/programme/"
+    weight = -200
+  [[menu.main]]
+    identifier = "mirco_services"
+    name = "微服务/MicroServices"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/categories/mirco_services/"
+    weight = -190
+  [[menu.main]]
+    identifier = "ml" #Machine Learning
+    name = "机器学习/ML"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
+    weight = -180
+  [[menu.main]]
+    identifier = "iot"
+    name = "物联网/IoT"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/tags/iot/"
+    weight = -170
+#  [[menu.main]]
+#    identifier = "philosophy"
+#    name = "人生哲学/Philosophy"
+#    pre = "<i class='fa fa-heart'></i>"
+#    url = "/about/"
+#    weight = -120
+    
