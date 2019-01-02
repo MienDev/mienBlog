@@ -1,0 +1,3 @@
+[submodule "themes/mainroad_theme"]
+	path = themes/mainroad_theme
+	url = https://github.com/MienDev/Mainroad-hugo-theme.git
