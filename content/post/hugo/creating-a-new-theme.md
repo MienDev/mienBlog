@@ -2,6 +2,12 @@
 title: Creating a New Theme
 date: 2014-09-28
 author: Michael Henderson
+categories:
+  - "hugo"
+tags:
+  - "HTML"
+  - "CSS"
+  - "Basic Elements"
 ---
 
 

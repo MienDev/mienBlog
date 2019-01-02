@@ -18,7 +18,7 @@ buildDrafts = false
 
 [Params]
   subtitle = "人生思考 / 产品思维 / 系统架构 / 物联网 / 人工智能" # Subtitle of your site
-  description = "Mien Wu's Personal blog about thoughts and words" # Description of your site
+  description = "无言以对，吴盐以兑。Mien Wu's Personal blog about thoughts and words" # Description of your site
   opengraph = true
   twitter_cards = false
   readmore = true # Show "Read more" button in list if true

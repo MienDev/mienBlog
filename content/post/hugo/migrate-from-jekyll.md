@@ -2,10 +2,8 @@
 title: Migrate to Hugo from Jekyll
 date: 2014-03-10
 linktitle: Migrating from Jekyll
-menu:
-  main:
-    name: Jekyll migration
-    weight: 10
+categories:
+  - "hugo"
 ---
 
 ## Move static content to `static`
