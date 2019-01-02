@@ -1,6 +1,7 @@
 ---
 title: Migrate to Hugo from Jekyll
 date: 2014-03-10
+draft: true
 linktitle: Migrating from Jekyll
 categories:
   - "hugo"
