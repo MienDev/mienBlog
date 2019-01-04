@@ -29,18 +29,27 @@ tags:
 - [Evernote (国际版)](https://evernote.com/)
 - [ProcessOn (收费版)](https://www.processon.com/) 多功能的在线绘图工具
 
-### 1.2 博客写作
+### 1.2 协作、文档、办公
+
+- 邮件管理 [邮箱Outlook](https://outlook.live.com/) | [Zoho Mail](https://mail.zoho.com/) | [QQ企业邮箱](https://exmail.qq.com/)
+
+- 文档协作 [腾讯文档](https://docs.qq.com/) | [石墨文档](https://shimo.im/)
+
+- 任务协作 [Trello](https://trello.com/) | [Asana](https://asana.com/)  | [PivotalTracker](https://www.pivotaltracker.com/) | [Worktile](https://worktile.com) | [Teambition](https://www.teambition.com/projects) | [Tower](https://www.tower.im)
+
+- 视频会议 [Zoom](https://zoom.us/)
+
+### 1.3 博客写作
 
 - [GitHub](https://www.github.com/) + [Hugo](https://gohugo.io/) + [Netlify](https://www.netlify.com/)
 
-### 1.3 编程开发
+### 1.4 编程开发
 
 - [Visual Studio Code](https://code.visualstudio.com/) 
 
-### 1.3 产品原型、图形、图像
+### 1.5 产品原型、图形、图像
 
 - [MockingBot](https://www.modao.cc/)  在线原型工具
-
 
 ## 2. 手机端
 
